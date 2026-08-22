@@ -1,0 +1,10 @@
+name: gcp-deployment.yml
+on: push
+
+jobs :
+  deploy :
+    runs-on : ubuntu-latest
+    steps:
+      - name: First Step Deployment
+        run: echo "Start GCP Deployment Process"
+
