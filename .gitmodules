@@ -1,0 +1,11 @@
+[submodule "APIGateway"]
+    path = APIGateway
+    url = https://github.com/DTY17/library-api-gateway.git
+
+[submodule "ConfigServer"]
+    path = ConfigServer
+    url = https://github.com/DTY17/library-config-server.git
+
+[submodule "EurekaServer"]
+    path = EurekaServer
+    url = https://github.com/DTY17/library-eureka-server.git
