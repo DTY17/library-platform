@@ -1,4 +1,10 @@
 # ⚙️ Platform Services
+# 👤 Student Information
+
+- **Student Name:** Dinan ThemikA  
+- **Student Number:** 241722003  
+- **Slack Handle:** *(Not provided)*  
+- **GCP Project ID:** graceful-system-415016
 
 The **Platform Repository** contains the core infrastructure services of the Library Management System: **API Gateway, Eureka Server, and Config Server**.
 
